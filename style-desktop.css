@@ -96,9 +96,7 @@
 
 	#banner
 	{
-		margin-left: auto; 
-		margin-right: auto;
-		display: block;"
+		width="100%"
 		padding: 6em 0em;
 	}
 
