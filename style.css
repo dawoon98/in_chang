@@ -248,8 +248,8 @@
 	{
 		position: relative;
 		background: #333 url(banner.jpg) no-repeat center;
-		background-size: cover;
 		width="100%"
+		background-size: cover;
 	}
 
 	.homepage #banner
